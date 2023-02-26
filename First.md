@@ -81,7 +81,14 @@ RUn
 
 https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
-## Github Document
-https://docs.github.com/zh
-MarkDown 笔记
+## Github Document &#10004;
+https://docs.github.com/zh  
+git add README.md && git commit -m "Add README"  
+git push --set-upstream origin HEAD  
+MarkDown 笔记  
+疑问：
+- HEAD指向哪里？
+- 仓库和分支的关系？
+- 远程仓库叫`origin`，本地仓库叫什么？
+- 本地的分支和远程仓库的分支都是master吗？他俩什么关系？
 ## 注册微信云托管  &#10004;
