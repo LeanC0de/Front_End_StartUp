@@ -11,6 +11,7 @@ myImage.onclick = function() {
 
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
+document.get
 
 function setUserName() {
     let myName = prompt('请输入你的名字。');
