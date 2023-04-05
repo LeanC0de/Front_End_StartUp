@@ -14,4 +14,12 @@ console.log(Test.prototype);
 */
 
 function doSomething(){}
+doSomething.prototype.foo = "bar";
 console.log( doSomething.prototype );
+
+var doSomeInstancing = new doSomething();
+doSomeInstancing.prop = "some value";
+console.log( doSomeInstancing );
+
+/* var doSomething = function(){};
+console.log( doSomething.prototype ); */
